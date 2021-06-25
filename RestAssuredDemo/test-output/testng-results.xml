@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-22T00:47:31 IST" name="Default suite" finished-at="2021-06-22T00:47:35 IST" duration-ms="4337">
+    <groups>
+    </groups>
+    <test started-at="2021-06-22T00:47:31 IST" name="Default test" finished-at="2021-06-22T00:47:35 IST" duration-ms="4337">
+      <class name="Re_assuredDemo.TC_01POST">
+        <test-method signature="test_01p()[pri:0, instance:Re_assuredDemo.TC_01POST@d29f28]" started-at="2021-06-22T00:47:31 IST" name="test_01p" finished-at="2021-06-22T00:47:34 IST" duration-ms="2908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01p -->
+        <test-method signature="test_02p()[pri:0, instance:Re_assuredDemo.TC_01POST@d29f28]" started-at="2021-06-22T00:47:34 IST" name="test_02p" finished-at="2021-06-22T00:47:34 IST" duration-ms="773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_02p -->
+        <test-method signature="test_03p()[pri:0, instance:Re_assuredDemo.TC_01POST@d29f28]" started-at="2021-06-22T00:47:34 IST" name="test_03p" finished-at="2021-06-22T00:47:35 IST" duration-ms="603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_03p -->
+      </class> <!-- Re_assuredDemo.TC_01POST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
