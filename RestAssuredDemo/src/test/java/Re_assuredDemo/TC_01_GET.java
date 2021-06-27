@@ -20,6 +20,7 @@ public class TC_01_GET {
 		// Verify Status code 
 		int sc=r.getStatusCode();
 		Assert.assertEquals(sc, 200);
+		System.out.println("done");
 	}
 	
 	@Test
