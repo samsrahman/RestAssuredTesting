@@ -13,7 +13,7 @@ public class TC_01POST {
 	void test_01p() {
 		Map<String, Object> val= new HashMap<String, Object>() ;
 		val.put("name", "samsur");
-		val.put("job", "tech"????);
+		val.put("job", "tech");
 		
 		JSONObject r=new JSONObject(val);
 		//System.out.println(r.toJSONString());
